@@ -1,0 +1,16 @@
+
+@charset "utf-8";
+/* CSS Document */
+body{
+background: #e2e2e2;
+}
+
+.tabla{ 
+    background: #d9534f;
+    width: 350px;     
+    margin-left: 35%;
+    margin-top: 10px;
+    border-radius: 9px;   
+    box-shadow: 0 3px 5px #000;
+}
+
