@@ -21,7 +21,7 @@ and open the template in the editor.
 <input name="cedula" type="text" id="cedula" placeholder="Cedula" required class="form-control inputtext">
 <br>
 <br>
-<input name="ingresar" class="btn btn-success"  type="submit" id="ingresar" value="Ingresar">
+<input name="ingresarr" class="btn btn-success"  type="submit" id="ingresar" value="Ingresar">
 <br>
 <br>
  <%
